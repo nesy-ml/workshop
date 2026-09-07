@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title description">
+  <title id="title">NeSyML 2026 social card</title>
+  <desc id="description">Workshop title, date, and location on a dark blue background with a small neural-symbolic diagram.</desc>
+
+  <rect width="1200" height="630" fill="#172126"/>
+  <rect x="72" y="72" width="8" height="486" fill="#48a99a"/>
+
+  <g fill="none" stroke="#2e7189" stroke-width="2" opacity="0.72">
+    <path d="M880 144 1000 104 1104 174 1028 274 905 246Z"/>
+    <path d="M880 144 905 246 824 326 948 382 1052 344 1028 274"/>
+    <path d="M905 246 1028 274 1052 344 1116 430 966 484 948 382 824 326"/>
+    <path d="M1000 104 1028 274 1104 174"/>
+  </g>
+  <g fill="#48a99a">
+    <circle cx="880" cy="144" r="10"/>
+    <circle cx="1000" cy="104" r="15"/>
+    <circle cx="1104" cy="174" r="10"/>
+    <circle cx="905" cy="246" r="14"/>
+    <circle cx="1028" cy="274" r="12"/>
+    <circle cx="824" cy="326" r="10"/>
+    <circle cx="948" cy="382" r="15"/>
+    <circle cx="1052" cy="344" r="9"/>
+    <circle cx="1116" cy="430" r="13"/>
+    <circle cx="966" cy="484" r="10"/>
+  </g>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="112" y="165" fill="#8bd2c6" font-size="28" font-weight="700" letter-spacing="3">NeSyML 2026</text>
+    <text x="112" y="260" fill="#ffffff" font-size="54" font-weight="700">Neuro-Symbolic</text>
+    <text x="112" y="322" fill="#ffffff" font-size="54" font-weight="700">Machine Learning</text>
+    <text x="112" y="389" fill="#cbd6d8" font-size="30">Foundations and Recent Advances</text>
+    <line x1="112" y1="445" x2="704" y2="445" stroke="#42626b" stroke-width="2"/>
+    <text x="112" y="496" fill="#ffffff" font-size="24">ACML 2026 · 1 December 2026</text>
+    <text x="112" y="532" fill="#9fb4b9" font-size="24">Melbourne, Australia</text>
+  </g>
+</svg>
